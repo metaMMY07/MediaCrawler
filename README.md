@@ -50,6 +50,7 @@ pwsh -File .\scripts\build-local.ps1 -Target Verify
 ## 开发入口
 
 - [HANDOFF.md](HANDOFF.md)：接手顺序、当前交付与待办。
+- [ASTRA-HANDOFF.md](ASTRA-HANDOFF.md)：D 盘迁移、远端发布和继续开发入口。
 - [docs/release-0.3.0.md](docs/release-0.3.0.md)：0.3.0 包体、签名、测试与截图证据（最新记录）。
 - [docs/release-0.2.0.md](docs/release-0.2.0.md)：上一版历史验收记录。
 - [docs/build-setup.md](docs/build-setup.md)：工具链说明。

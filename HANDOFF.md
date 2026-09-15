@@ -1,6 +1,6 @@
 # 接手入口：OpenScope Android v0.1.1（源码 versionName 0.3.0）
 
-更新时间：2026-09-15。绝对工作目录：`C:\Users\30622\Documents\ChatGPT\聚合搜索`。
+更新时间：2026-09-15。绝对工作目录：`D:\OpenScope`。项目已从 C 盘迁移到此目录。
 
 ## 当前交付
 
