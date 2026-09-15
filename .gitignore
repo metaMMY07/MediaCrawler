@@ -1,0 +1,12 @@
+.gradle/
+.gradle-user-home/
+**/build/
+local.properties
+.reference/
+.dsh-bridge/
+.remote-inspect/
+artifacts/
+*.jks
+*.keystore
+captures/
+.android-avd/

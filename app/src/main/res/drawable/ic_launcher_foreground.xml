@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher foreground: a simple magnifier glyph, drawn inside the 72dp adaptive-icon
+     safe zone of the 108x108 viewport. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M49,30a17,17 0 1,0 0,34a17,17 0 1,0 0,-34zM49,36.5a10.5,10.5 0 1,1 0,21a10.5,10.5 0 1,1 0,-21z" />
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M61.5,61.5l15.6,15.6l-4.6,4.6l-15.6,-15.6z" />
+</vector>
