@@ -15,9 +15,9 @@ Kotlin + Jetpack Compose + Material 3 聚合搜索验证项目，面向 Bilibili
 | --- | --- | --- |
 | ![OpenScope 搜索页](docs/images/openscope-search.jpg) | ![OpenScope 设置页](docs/images/openscope-settings.jpg) | ![OpenScope 账号页](docs/images/openscope-accounts.jpg) |
 
-## 最新版本：0.3.0
+## 最新公开版本：v0.1.1
 
-侧载测试包：[OpenScope-0.3.0-arm64-v8a.apk](artifacts/OpenScope-0.3.0-arm64-v8a.apk)，10,434,637 bytes（10.43 MB），versionCode 3。使用与旧版相同的内部测试 debug 签名，可覆盖安装；这仍是内部测试包。
+GitHub Release：[OpenScope Android v0.1.1](https://github.com/metaMMY07/MediaCrawler/releases/tag/v0.1.1)。侧载测试包：[OpenScope-0.3.0-arm64-v8a.apk](https://github.com/metaMMY07/MediaCrawler/releases/download/v0.1.1/OpenScope-0.3.0-arm64-v8a.apk)，10,434,637 bytes（10.43 MB），versionCode 3。APK 内部 versionName 保留为 0.3.0；使用内部测试 debug 签名，可覆盖安装。
 
 本轮将应用改名为 OpenScope，移除好问题 hero 与建议内容。搜索列表每个平台初始显示 3 条，More 每次优先从已加载缓冲追加 3 条；返回搜索列表会保存滚动位置。Bilibili 的状态文案统一为未登录和已登录，不再把未登录状态标成匿名或宣称无需登录。
 

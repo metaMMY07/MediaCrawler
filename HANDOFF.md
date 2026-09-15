@@ -1,10 +1,10 @@
-# 接手入口：OpenScope Android 0.3.0
+# 接手入口：OpenScope Android v0.1.1（源码 versionName 0.3.0）
 
 更新时间：2026-09-15。绝对工作目录：`C:\Users\30622\Documents\ChatGPT\聚合搜索`。
 
 ## 当前交付
 
-本轮交付已改名为 OpenScope，移除好问题 hero 与建议内容。搜索列表每个平台初始显示 3 条，More 每次优先从已加载缓冲追加 3 条；返回搜索列表保存滚动位置。Bilibili 的未登录与已登录状态已区分，不再把未登录状态标成匿名或宣称无需登录。
+本轮交付已改名为 OpenScope，移除好问题 hero 与建议内容。搜索列表每个平台初始显示 3 条，More 每次优先从已加载缓冲追加 3 条；返回搜索列表保存滚动位置。Bilibili 的未登录与已登录状态已区分，不再把未登录状态标成匿名或宣称无需登录。公开 Release 标签为 v0.1.1，源码与 APK 的内部 versionName 仍为 0.3.0。
 
 APK 为 `artifacts/OpenScope-0.3.0-arm64-v8a.apk`，10,434,637 bytes（10.43 MB），versionCode 3。Release 使用与旧版相同的内部测试 debug 签名，可覆盖安装；不要写成已安装到用户真机。当前模拟器为 `emulator-5580`，0.3 x86_64 Release 已成功覆盖安装并启动，versionCode 3 / versionName 0.3.0 已核实；主页截图见 `artifacts/openscope-release-home.png`。
 
